@@ -1,6 +1,6 @@
 ## Installation
 
-Insall all the dependencies and run in with
+Insall all the dependencies and run with
 
 ```bash
 npm install
